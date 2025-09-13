@@ -1,0 +1,557 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.icn i{
+    font-size: 25px;
+    padding: 20px 10px;
+    /* color: black; */
+    transition: 0.5s;
+}
+/* .icn i:hover{
+   color: #d1b720; 
+    
+} */
+/* .banner{
+    background-image: url(../img/BANNER.jpg);
+    width: 100%;
+     height:500px;
+    background-size: cover; 
+} */
+
+.text{
+    padding-top: 360px;
+    font-size: 55px;
+    font-family: myfont2;
+}
+@font-face {
+    font-family: myfont2;
+    src: url(../font/Deutschlands.ttf);
+}
+/* #navi{
+ 
+ background-color: transparent  ;
+} */
+.decc{
+    font-family: myfont;
+    font-size: 20px;
+    
+    
+}
+@font-face {
+    font-family: myfont;
+    src: url(../font/NOTICE.txt);
+}
+.food{
+    font-family: foodfont;
+}
+@font-face {
+    font-family: foodfont;
+    src: url(../font/_Read\ Me.txt);
+}
+.pic{
+    background-image: url(../img/home4-urban-paralax-1.jpg);
+    /* width: 100%; */
+    /* height:350px; */
+    background-attachment: fixed;
+}
+.our{
+    font-size: 50px;
+}
+
+
+.Contact{
+    font-family: myfont3;
+}
+@font-face {
+    font-family: myfont3;
+    src: url(../font/Brodille-Regular.ttf);
+}
+.pera{
+    font-family: myfont4;
+}
+@font-face {
+    font-family: myfont4;
+    src: url(../font/_Read\ Me.txt);
+}
+.items{
+    background-image: url(../img/elements-title-img1.jpg);
+    /* width: 100%; */
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment:fixed ; */
+}
+.rest{
+    padding-top: 140px;
+    font-family: myfont5;
+    font-size: px;
+}
+@font-face {
+    font-family: myfont5;
+    src: url(../font/_Read\ Me.txt);
+}
+.fotter{
+    height: 500px;
+}
+.fed{
+    padding-top: 150px;
+    font-family: myfont6;
+    font-size: 17px;
+}
+.fed2{
+    font-family: myfont6;
+    font-size: 17px;
+}
+@font-face {
+    font-family: myfont6;
+    src: url(../font/NOTICE.txt);
+}
+.sed{
+    font-size: 17px;
+    padding-top: 30px;
+    font-family: myfont7;
+}
+
+@font-face {
+    font-family: myfont7;
+    src: url(../font/NOTICE.txt);
+}
+.tasty{
+    font-family: infont;
+}
+@font-face {
+    font-family: infont;
+    src: url(../font/_Read\ Me.txt);
+}
+.our{
+    font-family: infont2;
+}
+@font-face {
+    font-family: infont2;
+    src: url(../font/_Read\ Me.txt);
+}
+.new{
+    font-size: 17px;
+}
+.foterpic{
+    background-image: url(../img/logo_elixir.png);
+    /* width: 100%; */
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: -200px;
+}
+.ftr{
+    padding-top: 160px;
+}
+
+.lasticon{
+    color:black;
+    padding-left: 10px;
+}
+
+.lasticon:hover{
+    color:#d1b720;
+}
+
+
+.lastul{
+    list-style: none;
+}
+
+.lasti{
+    color: black;
+}
+
+.lasti:hover{
+    color: #f76c6c;
+}
+
+.head{
+    margin-left:25px;
+}
+
+.footer{
+    border-top:1px solid grey;
+}
+
+/* ABOUT CSS */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.icn i{
+    font-size: 20px;
+    padding: 20px 10px;
+    color: white;
+    transition: 0.5s;
+}
+.icn i:hover{
+    color: #d1b720; 
+    
+}
+.abt{
+    font-family:    abtmyfont;
+    font-size: 50px;
+}
+@font-face {
+    font-family: abtmyfont;
+    src: url(../font/_Read\ Me.txt);
+}
+.abt1{
+    font-family: abtmyfont1;
+    font-size: 15px;
+    color: grey;
+}
+@font-face {
+    font-family: abtmyfont1;
+    src: url(../font/_Read\ Me.txt);
+}
+.hst{
+    font-family: abtmyfont2;
+    color: #d1b720;
+    font-size: 70px;
+    padding-left: 50px;
+}
+@font-face {
+    font-family:abtmyfont2;
+    src: url(../font/Deutschlands.ttf);
+}
+.pera2{
+    padding-left: 50px;
+    font-size: 18px;
+    color: grey;
+}
+.pic2{
+    background-image: url(../img/opening_hours.jpg);
+    /* width: 100%; */
+    /* height: 540px; */
+    background-attachment: fixed;
+}
+.opy{
+
+    font-family:abtmyfont3;
+    font-size: 60px;
+    font-weight:bolder;
+}
+@font-face {
+    font-family: abtmyfont3;
+    src: url(../font/NOTICE.txt);
+}
+.suny{
+    color: #d1b720;
+    font-family: abtmyfont4;
+    font-size:40px;
+}
+@font-face {
+    font-family: abtmyfont4;
+    src: url(../font/NOTICE.txt);
+}
+.time{
+    font-weight: bold;
+}
+.num{
+    font-size: 15px;
+    font-size: 20px;
+}
+.our2{
+    font-size: 70px;
+    font-family: abtmyfont5;
+    font-weight: bold;
+}
+@font-face {
+    font-family: abtmyfont5;
+    src: url(../font/NOTICE.txt);
+    
+}
+.tst{
+     font-family: abtmyfont6;
+     font-size: 25px;
+}
+@font-face {
+    font-family:abtmyfont6 ;
+    src: url(../font/gemfont.txt);
+}
+.pra{
+    font-family: abtmyfont7;
+    font-size: 19px;
+    color: grey;
+}
+@font-face {
+    font-family: abtmyfont7;
+    src: url(../font/NOTICE.txt);
+}
+.icon i{
+    font-size: 60px;
+    padding: 20px 10px;
+    color: white;
+    transition: 0.5s;
+}
+.icon i:hover{
+    color: #d1b720; 
+    
+}
+
+/* MENUPAGE CSS */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.icn i{
+    font-size: 20px;
+    padding: 20px 10px;
+    color: white;
+    transition: 0.5s;
+}
+.icn i:hover{
+    color: #d1b720; 
+    
+}
+.pics3{
+    background-image: url(../img/menu_logo.png);
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* .main{
+    border: 2px solid indigo;
+    height: 600px;
+} */
+.prm{
+    color: #d1b720;
+    font-family: mnumyfont;
+    font-weight:bolder;
+}
+@font-face {
+    font-family: mnumyfont;
+    src: url(../font/_Read\ Me.txt);
+}
+ /* .main2{
+    border: 2px solid firebrick;
+    height: 500px;
+} */
+.pric{
+    font-size: 18px;
+    margin-top: -45px;
+    color:#d1b720;
+    font-weight: bold;
+} 
+
+.filt{
+    font-weight: bold;
+    font-size: 20px;
+}
+.tst{
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 82px;
+
+}
+.Things{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.per{
+    line-height: 10px;
+}
+.pic4{
+    background-image: url(../img/fresh-home-icon1.jpg);
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.sweet{
+    font-family: mnfont4;
+    color: #d1b720;
+    padding-top: 90px;
+    font-size: 40px;
+    font-weight: bold;
+}
+@font-face {
+    font-family: mnfont4;
+    src: url(../font/Roman\ SD.ttf)
+}
+.Burger{
+    font-family: mnfont6;
+    color: black;
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.peraa{
+    font-size: 15px;
+    font-style: normal;
+}
+@font-face {
+    font-family: mnfont6;
+    src: url(../font/Roman\ SD.ttf)
+}
+.picmnu{
+    background-image: url(../img/blog-title-image.jpg);
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+.OFFER{
+    font-family: mnfont7;
+    color: black;
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+@font-face {
+    font-family: mnfont7;
+    src: url(../font/Roman\ SD.ttf)
+}
+
+/* gallery css */
+.list ul{
+    list-style: none;
+}
+.list li{
+    float: left;
+}
+.list a{
+    display: block;
+    padding: 25px 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.list a:hover{
+    color: #d1b720;
+    text-decoration: underline;
+}
+.gallery{
+    font-family: gallfnt;
+    font-weight: bold;
+}
+@font-face {
+    font-family: gallfnt;
+    src: url(../font/gemfont.txt);
+}
+.says{
+    font-style: italic;
+    color: darkgray;
+    font-weight: bold;
+}
+.rec{
+    font-weight: bold;
+     padding-top: 90px;
+}
+.dis{
+    font-size: 70px;
+    font-family: dllfnt1;
+}
+@font-face {
+    font-family: dallfnt1;
+    src: url(../font/gemfont.txt);
+}
+.galltext{
+    font-weight: bold;
+}
+/* reservation css */
+.reser{
+    color: #d1b720;
+}
+.table{
+    color: darkgray;
+    font-style: italic;
+    font-weight: bold;
+}
+.wlcom{
+    color: #d1b720;
+    font-weight: bold;
+    font-style: italic;
+}
+.make{
+    font-size: 55px;
+}
+.ophrs{
+    color: #d1b720;
+    font-weight: bold;
+    font-style: italic; 
+}
+.Friday{
+    color: darkgray;
+    font-style: italic;
+}
+.numm{
+    font-size: 45px;
+    color: darkgray;
+    font-style: italic;
+}
+.fed3{
+    font-family: myfont6;
+    font-size: 17px;
+    padding-top: 70px;
+}.icn2{
+    color: white;
+    font-size: 20px;
+    padding: 26px 16px;
+}
+.icn2 i:hover{
+    color: #d1b720;
+}
+/* .box1{
+    border: 2px solid rgb(39, 139, 0);
+    height: 500px;
+} */
+
+
+
+.boxx{
+    border: 2px red solid;
+    height: 500px;
+}
+ .lastli:hover{
+
+    color: #d1b720;
+    transition: 0.5s;
+}
+.head:hover{
+    color: #d1b720;
+}
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.piclogin{
+    background-image: url(../img/opening_hours.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.textlogin{
+    background-color: darkgoldenrod;
+   color:white;
+   font-size: 40px;
+}
+
+    
+/* .box{
+    border: 3px solid red;
+    height: 500px;
+} */
+.box2login{
+    background-color: rgba(0, 5, 5, 0.432);
+    /* background-color: transparent; */
+}
+.user{
+    color: #d1b720;
+    font-weight: bold;
+}
+/* .box3login{
+    width: 100px;
+    height: 100px;
+    background-color: hotpink;
+    justify-content: center;
+} */
